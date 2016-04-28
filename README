@@ -11,7 +11,6 @@ Crie Planos Configure periodicidade, valor, trial e detalhes dos planos. Gerenci
 | Aceite cartões de crédito com apenas um contrato e única integração | Automatize suas cobranças e receba sem atraso, sem incomodar o seu cliente | Controle seu negócio gerenciando planos e assinaturas |
 
  ### Serviço
-
 | Crie Planos | Gerencie assinaturas | Recuperação de mensalidades |
 |-------------|----------------------|-----------------------------|
 |Configure periodicidade, valor, trial e detalhes dos planos.| Controle quais são os seus clientes ativos, quem está em dia ou quem está em atraso. | Configure as re-tentativas que o Moip irá fazer às cobranças automáticas e reduza a inadimplência.
@@ -20,16 +19,22 @@ Crie Planos Configure periodicidade, valor, trial e detalhes dos planos. Gerenci
 ## Benefícios
 #### 1. Gerencie assinaturas e planos
 > Acompanhe o status das assinaturas e mensalidades e faça o controle da periodicidade, valor e períodos de assinatura gratuita (trial) dos planos.
+
 #### 2. Faça cobranças recorrentes automáticas
 > Receba sem atraso e sem incomodar seu cliente criando suas assinaturas e definindo o intervalo de suas cobranças recorrentes.
+
 #### 3. Recupere mensalidades e pagamentos atrasados
 > Use o Moip Assinaturas para recuperar mensalidades e pagamentos atrasados de forma fácil e automática através do painel administrativo ou das APIs do Moip.
+
 #### 4. Faça uma integração simples com seu website ou backoffice
 > Use nossa tecnologia para integrar o Moip Assinaturas direto com o seu website ou backoffice de forma fácil e intuitiva.
+
 #### 5. 100% de proteção e segurança de dados
 > O Moip possui o nível mais alto de certificação PCI DSS. Além disso, usamos mais de 400 métodos de análise para identificar se o pagamento que você está recebendo é uma fraude.
+
 #### 6. Receba pagamentos por cartão de crédito e boleto no seu site ou e-commerce
 > Esqueça a contratação de gateways, gestão de fraude, bancos e administradoras. Com apenas um contrato e uma integração você tem tudo que precisa para receber pagamentos.
+
 #### 7. Seja multicanal de verdade
 > O Moip te ajuda a receber pagamentos, onde você precisar, seja dentro de Aplicativos, site ou venda presencial.
 
