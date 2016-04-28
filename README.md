@@ -11,6 +11,7 @@ Crie Planos Configure periodicidade, valor, trial e detalhes dos planos. Gerenci
 | Aceite cartões de crédito com apenas um contrato e única integração | Automatize suas cobranças e receba sem atraso, sem incomodar o seu cliente | Controle seu negócio gerenciando planos e assinaturas |
 
  ### Serviço
+ 
 | Crie Planos | Gerencie assinaturas | Recuperação de mensalidades |
 |-------------|----------------------|-----------------------------|
 |Configure periodicidade, valor, trial e detalhes dos planos.| Controle quais são os seus clientes ativos, quem está em dia ou quem está em atraso. | Configure as re-tentativas que o Moip irá fazer às cobranças automáticas e reduza a inadimplência.
